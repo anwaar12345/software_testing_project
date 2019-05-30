@@ -1,0 +1,36 @@
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojAssemblyReference.cache
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CopyComplete
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\users\zubair ansari\source\repos\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+E:\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+E:\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojAssemblyReference.cache
+E:\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+E:\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CopyComplete
+E:\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+E:\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
